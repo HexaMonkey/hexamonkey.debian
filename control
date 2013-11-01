@@ -1,0 +1,12 @@
+Source: hexamonkey
+Maintainer: Guillaume Bouteille <duffman@gb2n.org>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 8)
+
+Package: hexamonkey
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: binary file analyser
+ Hexamonkey uses a descriptive language, HMScript, to parse and and analyse many binary formats.
