@@ -3,7 +3,7 @@ Maintainer: Guillaume Bouteille <duffman@gb2n.org>
 Section: misc
 Priority: optional
 Standards-Version: 3.9.2
-Build-Depends: debhelper (>= 8)
+Build-Depends: debhelper (>= 8), flex, bison, qt5-qmake, qt5-default
 
 Package: hexamonkey
 Architecture: any
