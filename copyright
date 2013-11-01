@@ -1,1 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: hexamonkey
+Source: https://github.com/HexaMonkey/hexamonkey
 
+Files: *
+Copyright: Copyright (C) 2013  Sevan Drapeau-Martin, Nicolas Fleury
+License: GPL-2+
+
+Files: debian/*
+Copyright: 2013 Guillaume Bouteille <duffman@gb2n.org>
+License: GPL-2+
